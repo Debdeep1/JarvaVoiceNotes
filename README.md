@@ -16,12 +16,13 @@
 ## Screenshot and Demo Video
 
 1. Home Page
-![React App - Google Chrome 31-07-2022 19_38_04](https://user-images.githubusercontent.com/89895057/182030520-6b4e25f2-032e-45a7-af13-0ffd3cfd622a.png)
+![JarvaVoiceNotes-Home](https://user-images.githubusercontent.com/89895057/182031261-9da0b358-4f93-42d6-9fed-82664f637b11.png)
+
 
 
 2. Demo Video
 
-https://user-images.githubusercontent.com/89895057/182030483-1b3b7016-6705-40f9-8282-342550d4a5df.mp4
+https://user-images.githubusercontent.com/89895057/182031207-0087a1da-443b-4efc-80c8-fdc4616bdeef.mp4
 
 
 ## Deployed Links
