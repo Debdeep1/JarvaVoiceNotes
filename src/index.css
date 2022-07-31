@@ -21,16 +21,23 @@ code {
 }
 
 .box {
-  box-shadow: -4px 10px 35px -1px rgba(0, 0, 0, 0.75);
   min-height: 20rem;
   margin: 30px;
   padding: 20px;
   border-radius: 5px;
+  border-radius: 19px;
+  background: #3e3d3d;
+  box-shadow: inset 7px 7px 14px #222222, inset -7px -7px 14px #4d4c4c;
 }
 
 h1 {
   margin-left: 20px;
-  background: -webkit-linear-gradient(rgb(244, 246, 253),rgb(255, 255, 255), rgb(189, 243, 249),rgb(199, 193, 244));
+  background: -webkit-linear-gradient(
+    rgb(244, 246, 253),
+    rgb(255, 255, 255),
+    rgb(189, 243, 249),
+    rgb(199, 193, 244)
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
