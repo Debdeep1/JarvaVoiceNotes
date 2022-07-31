@@ -5,9 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg?w=360);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #333;
+  color: #eee;
 }
 
 code {
@@ -27,30 +26,20 @@ code {
   margin: 30px;
   padding: 20px;
   border-radius: 5px;
-  background: rgb(6 7 40 / 41%);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border-radius: 10px;
-  border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 h1 {
   margin-left: 20px;
-  background: -webkit-linear-gradient(rgb(6, 64, 238),rgb(6, 64, 238), rgb(9, 99, 109),rgb(9, 99, 109));
+  background: -webkit-linear-gradient(rgb(244, 246, 253),rgb(255, 255, 255), rgb(189, 243, 249),rgb(199, 193, 244));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 button {
-  color: #fff;
   font-weight: 600;
   float: right;
   width: 7rem;
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
-  border-radius: 24px;
-  background: linear-gradient(145deg, #001faf, #21dcb3);
-  box-shadow: 10px 10px 8px #13183f, -5px -3px 19px #3542ab;
 }
