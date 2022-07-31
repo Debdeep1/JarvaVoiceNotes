@@ -55,7 +55,7 @@ function App() {
 
   return (
     <>
-      <h1>Voice Notes</h1>
+      <h1>Jarva Voice Notes</h1>
       <div className="container">
         <div className="box">
           <h2>Current Note</h2>
@@ -66,12 +66,12 @@ function App() {
           <button onClick={() => setIsListening(prevState => !prevState)}>
             Start/Stop
           </button>
-          <p>{note}</p>
+          <p style={{fontWeight:"bold"}}>{note}</p>
         </div>
         <div className="box">
-          <h2>Notes</h2>
+          <h2>All Notes</h2>
           {savedNotes.map(n => (
-            <p key={n}>{n}</p>
+            <p style={{fontWeight:"bold"}} key={n}>{n}</p>
           ))}
         </div>
       </div>
