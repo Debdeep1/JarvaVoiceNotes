@@ -4,7 +4,7 @@
 
 
 ## Tech Stack
-- ReactJs
+- React Js
 - CSS
 
 ## Implementation
