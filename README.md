@@ -34,4 +34,3 @@ https://jarvavoicenotes.netlify.app/
 https://github.com/Debdeep1/JarvaVoiceNotes
 ```
 
-### In future, I will be integrating this feature in my MERN stack chat application, ChitterChatter.
