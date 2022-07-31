@@ -15,14 +15,12 @@
 
 ## Screenshot and Demo Video
 
-1. Home Page
-![JarvaVoiceNotes-Home](https://user-images.githubusercontent.com/89895057/182031261-9da0b358-4f93-42d6-9fed-82664f637b11.png)
+1. Demo Video
 
+https://user-images.githubusercontent.com/89895057/182032739-85d8d38c-4755-4d64-98a6-7a488bdad0b8.mp4
 
-
-2. Demo Video
-
-https://user-images.githubusercontent.com/89895057/182031207-0087a1da-443b-4efc-80c8-fdc4616bdeef.mp4
+2. Home Page
+![Jarva Voice Notes - Google Chrome](https://user-images.githubusercontent.com/89895057/182032746-adc4f56a-f8d9-42da-94aa-5984f098e996.png)
 
 
 ## Deployed Links
